@@ -1,0 +1,129 @@
+[submodule "areafix"]
+	path = areafix
+	url = git@github.com:pgul/areafix.git
+[submodule "areastat"]
+	path = areastat
+	url = git@github.com:pgul/areastat.git
+[submodule "bsopack"]
+	path = bsopack
+	url = git@github.com:pgul/bsopack.git
+[submodule "carc"]
+	path = carc
+	url = git@github.com:pgul/carc.git
+[submodule "cfroute"]
+	path = cfroute
+	url = git@github.com:pgul/cfroute.git
+[submodule "diskpoll"]
+	path = diskpoll
+	url = git@github.com:pgul/diskpoll.git
+[submodule "emailpkt"]
+	path = emailpkt
+	url = git@github.com:pgul/emailpkt.git
+[submodule "fastlst"]
+	path = fastlst
+	url = git@github.com:pgul/fastlst.git
+[submodule "ffma"]
+	path = ffma
+	url = git@github.com:pgul/ffma.git
+[submodule "fidoconf"]
+	path = fidoconf
+	url = git@github.com:pgul/fidoconf.git
+[submodule "fidostat"]
+	path = fidostat
+	url = git@github.com:pgul/fidostat.git
+[submodule "gff"]
+	path = gff
+	url = git@github.com:pgul/gff.git
+[submodule "hflist"]
+	path = hflist
+	url = git@github.com:pgul/hflist.git
+[submodule "homepage"]
+	path = homepage
+	url = git@github.com:pgul/homepage.git
+[submodule "hpt"]
+	path = hpt
+	url = git@github.com:pgul/hpt.git
+[submodule "hptkill"]
+	path = hptkill
+	url = git@github.com:pgul/hptkill.git
+[submodule "hptsqfix"]
+	path = hptsqfix
+	url = git@github.com:pgul/hptsqfix.git
+[submodule "hptutil"]
+	path = hptutil
+	url = git@github.com:pgul/hptutil.git
+[submodule "hptzip"]
+	path = hptzip
+	url = git@github.com:pgul/hptzip.git
+[submodule "hpucode"]
+	path = hpucode
+	url = git@github.com:pgul/hpucode.git
+[submodule "htick"]
+	path = htick
+	url = git@github.com:pgul/htick.git
+[submodule "htpl"]
+	path = htpl
+	url = git@github.com:pgul/htpl.git
+[submodule "huskmisc"]
+	path = huskmisc
+	url = git@github.com:pgul/huskmisc.git
+[submodule "huskybse"]
+	path = huskybse
+	url = git@github.com:pgul/huskybse.git
+[submodule "huskylib"]
+	path = huskylib
+	url = git@github.com:pgul/huskylib.git
+[submodule "huskypnt"]
+	path = huskypnt
+	url = git@github.com:pgul/huskypnt.git
+[submodule "kfe"]
+	path = kfe
+	url = git@github.com:pgul/kfe.git
+[submodule "lxtrack"]
+	path = lxtrack
+	url = git@github.com:pgul/lxtrack.git
+[submodule "mail2pkt"]
+	path = mail2pkt
+	url = git@github.com:pgul/mail2pkt.git
+[submodule "mpost"]
+	path = mpost
+	url = git@github.com:pgul/mpost.git
+[submodule "msged"]
+	path = msged
+	url = git@github.com:pgul/msged.git
+[submodule "msgidd"]
+	path = msgidd
+	url = git@github.com:pgul/msgidd.git
+[submodule "nltools"]
+	path = nltools
+	url = git@github.com:pgul/nltools.git
+[submodule "pkt2mail"]
+	path = pkt2mail
+	url = git@github.com:pgul/pkt2mail.git
+[submodule "pktapi"]
+	path = pktapi
+	url = git@github.com:pgul/pktapi.git
+[submodule "pntstr"]
+	path = pntstr
+	url = git@github.com:pgul/pntstr.git
+[submodule "progate"]
+	path = progate
+	url = git@github.com:pgul/progate.git
+[submodule "promknl"]
+	path = promknl
+	url = git@github.com:pgul/promknl.git
+[submodule "protick"]
+	path = protick
+	url = git@github.com:pgul/protick.git
+[submodule "smapi"]
+	path = smapi
+	url = git@github.com:pgul/smapi.git
+[submodule "sqpack"]
+	path = sqpack
+	url = git@github.com:pgul/sqpack.git
+[submodule "test"]
+	path = test
+	url = git@github.com:pgul/test.git
+[submodule "umapi"]
+	path = umapi
+	url = git@github.com:pgul/umapi.git
